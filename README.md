@@ -115,6 +115,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 1.7 Test Completion as the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here: https://itfclasses.atlassian.net/projects/ANACL?selectedItem=com.thed.zephyr.je__traceability-project-level
+
 Test execution chart was generated and can be found below.
 
 https://itfclasses.atlassian.net/jira/dashboards/10212
